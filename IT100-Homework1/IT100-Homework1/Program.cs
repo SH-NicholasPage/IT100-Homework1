@@ -3,8 +3,6 @@
 * South Hills Username: [YOUR SOUTH HILLS USERNAME HERE]
 */
 
-using System;
-
 namespace IT100_Homework1
 {
     public class Program
